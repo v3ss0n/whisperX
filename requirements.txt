@@ -1,5 +1,5 @@
-torch -f https://download.pytorch.org/whl/cu113/torch_stable.html
-torchaudio -f https://download.pytorch.org/whl/cu113/torch_stable.html
+torch @ https://download.pytorch.org/whl/cu113/torch-1.12.1%2Bcu113-cp39-cp39-linux_x86_64.whl
+torchaudio @ https://download.pytorch.org/whl/cu113/torchaudio-0.12.1%2Bcu113-cp39-cp39-linux_x86_64.whl
 faster-whisper @ git+https://github.com/SYSTRAN/faster-whisper.git@0.10.0
 transformers
 pandas
